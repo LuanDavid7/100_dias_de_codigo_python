@@ -1,6 +1,6 @@
 # Band Name Generator
 
-print("Seja bem vindo ao gerador de nome de bandas.")
+print("Seja muito bem vindo ao gerador de nome de bandas.")
 
 # Iniciando variaveis como espaço vazio
 city = ""
